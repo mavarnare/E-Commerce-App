@@ -1,0 +1,130 @@
+[
+  {
+    "email": "test@test.com"
+  },
+  {
+    "email": "qwertyguy@gmail.com",
+    "password": "password",
+    "id": "8ada8bf2"
+  },
+  {
+    "email": "qwertyguy1",
+    "password": "pass123",
+    "id": "cc038e15"
+  },
+  {
+    "email": "asdfasdf@gmail.com",
+    "password": "qwe",
+    "id": "9eada420"
+  },
+  {
+    "email": "wertyui@ertyuioñ.tyui",
+    "password": "qwe",
+    "id": "dbaa5663"
+  },
+  {
+    "email": "rfe",
+    "password": "qwe",
+    "id": "072cd20b"
+  },
+  {
+    "email": "ghnhf@iuguyg.qwwe",
+    "password": "123",
+    "id": "c13669ea"
+  },
+  {
+    "email": "qazxswe",
+    "password": "edcvf",
+    "id": "4d6b69f0"
+  },
+  {
+    "email": "holiwis",
+    "password": "holipass",
+    "id": "e2155426"
+  },
+  {
+    "email": "poiuy",
+    "password": "po",
+    "id": "da7a3377"
+  },
+  {
+    "email": "gfhdj@nlkn.oinoi",
+    "password": "qwe",
+    "id": "aa60cdea"
+  },
+  {
+    "email": "test@testqweqw.com",
+    "password": "qwe",
+    "id": "ae156554"
+  },
+  {
+    "email": "qwerty123@123.123",
+    "password": "qwe",
+    "id": "cc51a3fa"
+  },
+  {
+    "email": "severus@severus.com",
+    "password": "ebfeed00bbe42e622578b7d1a0a85f368fcc65bf7be0355d1daa32fa37f7fa8220e260c9de47e78b2f66c3fd1cbb175287a832e9b588f6e6502a972042c72115.6fc0fa53fc868451",
+    "id": "1bf6dd9a"
+  },
+  {
+    "email": "severus@severus.severus",
+    "password": "c9560a66c859cb88aa684dd806267268706995e1d989d0092682f7c97336209e67dd65a6f5e6707409a2b655033c58bbd7f514b990c8a689fe0bde1d8c83d099.988c200bd808e912",
+    "id": "8193277c"
+  },
+  {
+    "email": "wololo",
+    "password": "f920b94ae1f43062f8793f6a0d2425c0917b5ce513026e668c49408e4d19303cb5e5547708e0e4479ec4d75b8756d1fbec3aabda0b67aa416d12eeb8fc40e803.5f10775c680f1a1c",
+    "id": "17830db6"
+  },
+  {
+    "email": "@asdasdasda",
+    "password": "0cf4038cf0e0d16390b1ac56271b6e99bce30e7b49c27542ded169b127892a4aad68492add866c85f5a0c123ed1e396de8b50bd4a0108d3084ce2cefb064162c.7a4ae66b5a134c3f",
+    "id": "e1b9ad83"
+  },
+  {
+    "email": "@asdasda",
+    "password": "83c5b997b45e82a7cc4f5e1156c5f194eec2d22c558bc760c68b4ba98955d450afe8227868b0efade95a68a2880ebd61bdfb5a87a760ae4439e07d3bbd5f9a73.4279e9deacce550a",
+    "id": "c16babbe"
+  },
+  {
+    "email": "test@test.com",
+    "password": "749cdd3c555483991d35982cfcd9ef030706794f80a8a9e8b92bc419c7eb2a73e7458ac9b5bff61f58da9291f1014d74e56b6129f2e71fab5ae3f7df7617d391.b8616dc1c03d30bd",
+    "id": "b9067dbc"
+  },
+  {
+    "email": "@qwerrty",
+    "password": "cbe62a9aa731e500c6a30f1263bf896213cd0f641242597ac6418a11540f9778e1561923a972155d69816be34a540312ec876d187ffeb90a2de8c3308303ea5c.274facd66e99ba84",
+    "id": "28fbbd8a"
+  },
+  {
+    "email": "pablo@pablo.pablo",
+    "password": "4618eb12d3785d8bbc29cd41d52d3e2a0e32c858a6d7d8e52d4361e6c420845ef394642517130d954985f09e9f1d4df7cff2100c297907d061fae5b7f89b3864.757e080dbf93c2d5",
+    "id": "a3107f67"
+  },
+  {
+    "email": "tete@tete.com",
+    "password": "77a4c05cb4e5e23d32ea42925012b0b635c6ebcd1cd12a6c19154c4789bd90c924da9091be5da04a77fb1dd6d3552a9472c4d327d60f8fc3cbc8689baed532dc.c5dbd34bed607784",
+    "id": "e6927224"
+  },
+  {
+    "email": "gofre@gofre.com",
+    "password": "e722e0a5b996b6e4757f2b316f7fdbf7787579bba968dd665b3213022bd88d61cca671f06167115aa4a4b8ffa85901b891934f5294898417c48e0ccd631e7293.7253d3f4500abb9c",
+    "id": "a2185c48"
+  },
+  {
+    "email": "tulio@tulio.tulio",
+    "password": "6f992043912e794d2b4fcd16a12b4a920c3b2ca64fcd5215439045c0ac760b9a3484977cfb58cffd516f6e40cf0e79d52f830028d909e285fece67df1e5b9260.4c08119fbf31bf56",
+    "id": "b4e11310"
+  },
+  {
+    "email": "neurobionte@wasd.com",
+    "password": "971b0286ab03b63eea530aa8517e35ae5c8c245a85e571a6b68347651ac74115ca5d008098535ee31f24a419f4ff5af72722b7a7687daddff65a7bfaea067d24.890f7412fa277320",
+    "id": "c74b6864"
+  },
+  {
+    "email": "pedro@pedro.com",
+    "password": "94939490e5c2642c6b394730103928099761929e45ac5f4d22bdff5d4ff4fc2d16d3f112aaffce2ac09336a09842d30ce99a8225a5d9f9c29b8cbf4eaee1f40f.601eac92ed926563",
+    "id": "0f9f3210"
+  }
+]
